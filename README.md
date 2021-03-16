@@ -1,2 +1,2 @@
-# Portfolio website ver2
- Re-designed portfolio website
+# Portfolio website practice
+ Re-designed portfolio website practice
